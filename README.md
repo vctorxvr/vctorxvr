@@ -13,7 +13,7 @@ Hello, my name is Victor Xavier,  I am <strong>Novice Developer</strong> <br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
-<img height="180em" src="https://camo.githubusercontent.com/d3202ba3c222e19444bea229373f12d695f5fbc47c852fc8135733b8b69ef394/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42696f4a4a266c61796f75743d636f6d70616374266c616e67735f636f756e743d39267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BioJJ&amp;layout=compact&amp;langs_count=9&amp;theme=dracula" style="max-width: 100%;">
+
 
 </p>
 
