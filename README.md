@@ -1,4 +1,4 @@
-<img src="/dev.jpg" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="/dev.png" min-width="200px" max-width="200px" width="400px" align="right">
 Hello, my name is Victor Xavier,  I am <strong>Novice Developer</strong> <br>
 
 </p>
